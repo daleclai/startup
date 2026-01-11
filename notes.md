@@ -13,6 +13,15 @@
 My IP address is: 54.81.96.130
 Launching my AMI I initially put it on a private subnet. Even though it had a public IP address and the security group was right, I wasn't able to connect to it.
 
+## Terminal stuff
+cd - change directory
+mkdir - make a new directory
+fetch - latest info about the changes on GitHub without actually changing local repo.
+status - differences btw clones
+pull - verify you have the latest code
+git commit then git push to commit code and add to GitHub
+Have 10 commits a assignment
+
 ## Caddy
 
 No problems worked just like it said in the [instruction](https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md).
