@@ -51,9 +51,12 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Login over HTTPS
+- Each tap adds a point
+- Use points to buy button skins and backgrounds (will subtract from total points)
+- Ability to store and use bought skins.
+- People who create accounts can see other account names, points, and rankings.
+- Save points, skins, and ranking using name and email
 
 ### Technologies
 
