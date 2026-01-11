@@ -37,9 +37,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ```mermaid
 sequenceDiagram
-    actor You
+    actor Bob
+    actor Bill
+    actor Joe
     actor Website
-    You->>Website: Replace this with your design
+    Bob->>Website: Bob tap:1000
+    Bill->>Website: Bob tap:3050
+    Joe->>Website: Bob tap:4444
+    Website-->>Bob: 3rd place:1000 
+    Website-->>Bill: 2nd place:3030
+    Website-->>Joe: 1st place:4444
 ```
 
 ### Key features
