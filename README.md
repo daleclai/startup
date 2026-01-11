@@ -62,12 +62,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Four HTML pages. Use hyperlinks to move between them. One for the main page with the tapping button. Another to view and use the store to buy skins. Another to view rankings. Lastly, one to create/login and see your account.
+- **CSS** - Style each page that can be used on different sceens. Uses good styling to look like a game app.
+- **React** - Provides login, use points, and save taps as points.
+- **Service** - Used for backend such as login accounts, make taps/points functional, rank accourding to points, and adding/subracting points.
+- **DB/Login** - Store usernames, points, rankings, and 'skin' images. Accounts saved so people can save their points. 
+- **WebSocket** - Every tap is saved and automatically applies to ranking for other users to see. 
 
 ## 🚀 AWS deliverable
 
