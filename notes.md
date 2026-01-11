@@ -1,6 +1,6 @@
 # CS 260 Notes
 
-[My startup - Simon](https://simon.cs260.click)
+[My startup - Tap-a-Lot](https://github.com/daleclai/startup.git)
 
 ## Helpful links
 
