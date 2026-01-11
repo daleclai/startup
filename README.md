@@ -12,6 +12,10 @@ A game website where you tap a button, earn points for each click, and compete w
 
 ## 🚀 Specification Deliverable
 
+### Elevator pitch
+
+Want to play a fun game with friends to compete to see who can tap the most? Then get Tap-a-Lot, a simple, yet fun game about tapping a button and seeing whom among you can do it the most! Tap a lot of times and unlock fun button skins and backgrounds to elevate your experience. Login with your name and email to save your points and skins. See how you rank among oyur friends and everyone who has played before. 
+
 > [!NOTE]
 > Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
 
