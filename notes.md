@@ -58,6 +58,12 @@ The part I didn't like was the duplication of the header and footer code. This i
   
 - [Input Examples](https://codepen.io/claire_lin123/pen/NPrjXep)
 
+  ### Media
+- For Youtube video: click "Share" then "Embeded" then copy code right into HTML
+  - OR video controls width="300", <source src="video".
+- Image: img alt="Name" src="image" 
+  
+
 ## CSS
 
 This took a couple hours to get it how I wanted. It was important to make it responsive and Bootstrap helped with that. It looks great on all kinds of screen sizes.
