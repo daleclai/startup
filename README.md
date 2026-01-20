@@ -22,8 +22,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Design
-
-![pg1-main](tapfirstimage.png)
+<img src="tapfirstimage.png" width="100" height="150">
 ![pg2-store](tapsecondimage.png)
 ![pg3-rank](tapthirdimage.png)
 
