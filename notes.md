@@ -32,17 +32,25 @@ Have 10 commits a assignment
 No problems worked just like it said in the [instruction](https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md).
 
 ## HTML
-
+### Basic
 I learned a lot. I learned to use code in the this format < ></ >. (HINT: type div (or another tag) then click tab for it to auto complete. I further learned about: html (page container), head, title, script(javascript ref), body, header, footer, nav, main, span, h<1-9>, p, b, table, tr(table row), th(table header), td(table data), ol(ordered list), ul(unordered list), li (list item), and many more (refer to helpful links).
 
 I learned how to add an image (img src="image.jpg" alt="BYU  Cougar" width="100" height="100">) and add a hyperlink (a href="https://byu.edu">BYU - what will show up on page</a>).
 
 Some helpful links: [HTML tags](https://developer.mozilla.org/en-US/docs/Web/HTML) and [HTML Standard](https://html.spec.whatwg.org/multipage/).
 
-[Code Pen example](https://codepen.io/claire_lin123/pen/pvbPpER)
+[Basic HTML example](https://codepen.io/claire_lin123/pen/pvbPpER)
 This was easy. I was careful to use the correct structural elements such as header, footer, main, nav, and form. The links between the three views work great using the `a` element.
 
 The part I didn't like was the duplication of the header and footer code. This is messy, but it will get cleaned up when I get to React.
+
+### Inputs
+Label for "text", "password", "email", "textarea", "select", "optgroup", "checkbox" and etc to include inputs from the user. 
+For text, password, and email, include "input type=", "id=", "name=", and "placeholder=".
+For Select and optgroup include "select id=" and "name=", and "option#" or "optgroup label=".
+For checkbox and radio include "label for=", "input type=", "id=", "name=". and "value=".
+Input and label type for: file, search, tel, URL, number, etc.
+[Input Examples](https://codepen.io/claire_lin123/pen/NPrjXep)
 
 ## CSS
 
