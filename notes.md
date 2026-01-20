@@ -61,7 +61,8 @@ The part I didn't like was the duplication of the header and footer code. This i
   ### Media
 - For Youtube video: click "Share" then "Embeded" then copy code right into HTML
   - OR video controls width="300", <source src="video".
-- Image: img alt="Name" src="image" 
+- Image: img alt="Name" src="image"
+- [Media example](https://codepen.io/claire_lin123/pen/EaymQKJ)
   
 
 ## CSS
