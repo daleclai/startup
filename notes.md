@@ -57,6 +57,11 @@ Some helpful links: [HTML tags](https://developer.mozilla.org/en-US/docs/Web/HTM
   - OR video controls width="300", <source src="video".
 - Image: img alt="Name" src="image"
 - [Media example](https://codepen.io/claire_lin123/pen/EaymQKJ)
+
+### My startup
+- In my index, store, and rankings, I added head, header, footer, body, p (paragraph), images, hyperlinks, buttons and div classes so i can easily define sections and refer to them in CSS. 
+- In my settings, i included inputs for email and passwords.
+- To go live, do Alt+l then Alt+o.
   
 
 ## CSS
