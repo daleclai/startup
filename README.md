@@ -70,15 +70,15 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I have four pages; the main page, the store, the rankings, and the setting page.
-- [ ] **Proper HTML element usage** - I added head, header, footer, body, p (paragraph), images, hyperlinks, buttons and div classes so i can easily define sections and refer to them in CSS. In my settings, i included inputs for email and passwords.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - I have four pages; the main page, the store, the rankings, and the setting page.
+- [x] **Proper HTML element usage** - I added head, header, footer, body, p (paragraph), images, hyperlinks, buttons and div classes so i can easily define sections and refer to them in CSS. In my settings, i included inputs for email and passwords.
+- [x] **Links** - I included hyperlinks to get between the pages. And as a placeholder, included a hyperlink to set up my 3rd party API. I also included a hyperlink to my Github repo.
+- [x] **Text** - I included text as a place holder for rankings and to show points. I made sure to include a header and footnotes.
+- [x] **3rd party API placeholder** - On my rankings page, I plan to place a box with random jokes(called jokeAPI) above the rankings.
+- [x] **Images** - For my button nav bars, I included images for each button.
+- [x] **Login placeholder** - In my Settings page, I included a login/password. 
+- [x] **DB data placeholder** - In my rankings, I plan to include DB to store player points and accounts. 
+- [x] **WebSocket placeholder** - In my rankings, I plan to continuously update the rankings and when they receive their points. 
 
 ## 🚀 CSS deliverable
 
