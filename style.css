@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.game {
+    height: 10vh;
+    background: linear-gradient(#6fa8ff, #cfe8ff);
+    display: flex;
+    flex-direction: column;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px;
+    gap: 10px;
+}
+
+.coin {
+    background: #1e3c72;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 20px;
+
+}
+
+.settings {
+    border-radius: 50%;
+    border: none;
+    padding: 8px;
+}
+
+.main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-base {
+    background: #bbb;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.big-button {
+    width: 200px;
+    height: 200px;
+    background: red;
+    border-radius: 50%
+}
+
+.bottom-bar {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    background: #8b5a2b;
+}
+
+.nav {
+    padding: 15px 25px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+
+.tap { 
+    background: #3b82f6;
+}
+
+.store {
+    background: #fbbf24;
+}
+
+.rank {
+    background: #ef4444
+}
