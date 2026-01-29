@@ -3,32 +3,60 @@
 <head>
     <meta charset="utf-8">
     <title>Tap a Lot</title>
+<link rel="stylesheet" href="style.css" />
 </head>
 
-<link rel="stylesheet" href="style.css" />
 
 <body>
 
     <div class="game">
+           
+        <header>
+            <div class="top-bar">
+            <h1>Tap A Lot</h1>
+            <div class="scores">
+                🪙 Scores: <span id="countscore">0</span>
+            </div>
+            <a href="setting.html">
+                <button class="setting">
+                    <div class = "gear">
+                        <img src="https://www.pikpng.com/pngl/b/283-2837391_settings-vector-mobile-setting-icone-de-configurao-png.png" alt="Setting icon" width="25" height="25">
+                    </div>
+                </button>
+            </a>
+            </div>
+        </header>
 
-    <div class="top bar">
-        <h1>Tap A Lot</h4>
-        <div class="scores">
-            🪙 Scores: <span id="countscore">0</span>
-        </div>
-        <button class="setting"><img src="https://www.pikpng.com/pngl/b/283-2837391_settings-vector-mobile-setting-icone-de-configurao-png.png" alt="Setting icon" width="20" height="20"> <a href="setting.html">Settings</a></button>
-    </header>
+    <div class="rays"></div>
 
     <div class="main">
         <div class="button_base">
-            <button class="big-red-button">TAP ME</button> 
+            <button class="big-red-button"> TAP ME! </button>
         </div>
     </div>
 
     <nav class="bottom-nav">
-        <a href="index.html"><button class="nav tap"><img src="https://marketplace.canva.com/TuY5k/MAG9P5TuY5k/1/tl/canva-clicking-hand-icon-illustration-MAG9P5TuY5k.png" alt="Clicking icon" width="50" height="50"> Tap</button></a>
-        <a href="store.html"><button class="nav store"><img src="https://cdn-icons-png.flaticon.com/512/869/869636.png" alt="Store icon" width="50" height="50">Store</button></a>
-        <a href="rankings.html"><button class="nav ranking"><img src="https://cdn-icons-png.flaticon.com/512/9143/9143368.png" alt="Ranking icon" width="50" height="50">Ranking</button></a>
+
+        <a href="index.html">
+            <button class="nav tap">
+                <img src="https://marketplace.canva.com/TuY5k/MAG9P5TuY5k/1/tl/canva-clicking-hand-icon-illustration-MAG9P5TuY5k.png" alt="Clicking icon" width="50" height="50"> 
+                <h2>Tap</h2> 
+            </button>
+        </a>
+
+        <a href="store.html">
+            <button class="nav store">
+                <img src="https://cdn-icons-png.flaticon.com/512/869/869636.png" alt="Store icon" width="50" height="50">
+                <h2>Store</h2>
+            </button>
+        </a>
+
+        <a href="rankings.html">
+            <button class="nav ranking">
+                <img src="https://cdn-icons-png.flaticon.com/512/9143/9143368.png" alt="Ranking icon" width="50" height="50">
+                <h2>Ranking</h2>
+            </button>
+        </a>
     </nav>
 
     <footer>
